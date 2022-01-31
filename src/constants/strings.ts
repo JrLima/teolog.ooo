@@ -1,12 +1,12 @@
 export const WORDLE_TITLE = 'teolog.ooo'
 
-export const WIN_MESSAGES = ['Vitória com sabor de mel!', 'Vai haver festa no Céu!', 'Shey! 🔥', 'Pedrada no Inferno!', 'Êh, marreta santa!']
+export const WIN_MESSAGES = ['Sentiu o sabor de mel aí?', 'Vejo que és profeta!', 'Vai haver festa no Céu!', 'Shey! 🔥', 'Pedrada no Inferno!', 'Êh, marreta santa!', 'REVELOU-SE O MIXTÉRIO!']
 export const GAME_COPIED_MESSAGE = 'Copiado para área de transferência'
 export const ABOUT_GAME_MESSAGE = 'Sobre este jogo'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'Letras insuficientes'
 export const WORD_NOT_FOUND_MESSAGE = 'Palavra não encontrada'
 export const CORRECT_WORD_MESSAGE = (solution: string) =>
-  `A palavra era ${solution}`
+  `Acorda pra bênção, vaso! O mistério era ${solution}`
 export const ENTER_TEXT = 'Enter'
 export const DELETE_TEXT = 'Apagar'
 export const STATISTICS_TITLE = 'Estatísticas'
