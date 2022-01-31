@@ -1,4 +1,4 @@
-export const WORDLE_TITLE = 'Teolog.ooo'
+export const WORDLE_TITLE = 'teolog.ooo'
 
 export const WIN_MESSAGES = ['Vitória com sabor de mel!', 'Vai haver festa no Céu!', 'Shey! 🔥', 'Pedrada no Inferno!', 'Êh, marreta santa!']
 export const GAME_COPIED_MESSAGE = 'Copiado para área de transferência'
