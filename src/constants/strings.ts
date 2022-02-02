@@ -1,6 +1,6 @@
 export const WORDLE_TITLE = 'teolog.ooo'
 
-export const WIN_MESSAGES = ['Sentiu o sabor de mel aí?', 'Vejo que és profeta!', 'Vai haver festa no Céu!', 'Shey! 🔥', 'Pedrada no Inferno!', 'Êh, marreta santa!', 'REVELOU-SE O MIXTÉRIO!']
+export const WIN_MESSAGES = ['Sentiu o sabor de mel aí?', 'Vejo que és profeta!', 'Vai haver festa no Céu!', 'Shey! 🔥', 'Pedrada no Inferno!', 'Toca o shofar!', 'REVELOU O MIXTÉRIO!', 'É pra glorificar de pé!', 'Deixa o menino rodar!', 'Você é um espelho!', 'Já sabiam porque você tinha mesmo cara de vencedor!']
 export const GAME_COPIED_MESSAGE = 'Copiado para área de transferência'
 export const ABOUT_GAME_MESSAGE = 'Sobre este jogo'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'Letras insuficientes'
